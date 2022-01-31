@@ -2,7 +2,6 @@
 #write a function that prints "Hello_USERNAME!"   USERNAME is the input
 
 
-from sympy import N
 
 
 def hello_name(user_name):
